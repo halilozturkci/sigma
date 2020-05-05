@@ -1,6 +1,9 @@
 Kavramcı tümel kuramlarını açıklayarak bu kuramların olumlu ve olumsuz yönlerini tartışabileceksiniz. 
 Adcı tümel kuramları olan sıkı adcılık, yüklem adcılığı, doğal küme adcılığı ve benzerlik adcılığını açıklayarak olumlu ve olumsuz yönlerini tartışabileceksiniz.
+İkinci pull requests.
 
+
+Bu son olacak
 Deneme
 Denememe
 Ne olacak
